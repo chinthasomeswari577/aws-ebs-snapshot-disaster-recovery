@@ -46,7 +46,7 @@
 ### ✅Operating System
 * Amazon Linux 2023
 
-### Knowledge Required
+### 🧷Knowledge Required
 * Linux Commands
 * EC2 Management
 * EBS Volume Management
@@ -54,7 +54,7 @@
 * Disaster Recovery Concepts
 
 ---
-## Architecture Components
+## ⛏️Architecture Components
 
 | Component         | Resource Name        |
 | ----------------- | -------------------- |
@@ -117,7 +117,7 @@ Output:
 * Run:
 
 ```bash
-   create-volume.sh # run this script
+   ./create-volume.sh # run this script
 ```
  Or Manually:
     
