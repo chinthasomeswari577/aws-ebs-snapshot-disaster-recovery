@@ -28,7 +28,7 @@
 * Verify successful data recovery.
 
 ---
-## AWS Services Used
+## 🛠️AWS Services Used
 * Amazon EC2
 * Amazon EBS
 * Amazon EBS Snapshots
@@ -65,7 +65,7 @@
 | Recovery Instance | Recover-EC2-EBS      |
 
 ---
-## 🧷Solution Architecture
+## ⚙️Solution Architecture
 
 ```text
 EC2-Primary
@@ -361,7 +361,7 @@ Output:
 * Data recovery completed successfully.
 
 ---
-## Recovery Validation
+## 🔗Recovery Validation
 
 | Validation Check | Status |
 |------------------|---------|
@@ -376,7 +376,7 @@ Output:
 | Disaster Recovery Successful | ✅ |
 
 ---
-## Repository Structure
+## 🛡️Repository Structure
 
 ```text
 AWS-EBS-Snapshot-Disaster-Recovery/
@@ -408,7 +408,7 @@ AWS-EBS-Snapshot-Disaster-Recovery/
  ```
 
 ---
-## Key Learnings
+## ✅Key Learnings
 
 * Amazon EC2 Fundamentals
 * Amazon EBS Volume Management
@@ -420,12 +420,12 @@ AWS-EBS-Snapshot-Disaster-Recovery/
 * GitHub Project Documentation
 
 ---
-## Outcome
+## 🚀Outcome
 
 * Successfully implemented a Snapshot-Based Disaster Recovery Architecture using Amazon EBS Snapshots. Application data was backed up, restored, and verified successfully on a Recovery EC2 instance after simulating a disaster scenario.
 
 ---
-## Future Enhancements
+## 📈Future Enhancements
 
 * Automate snapshot creation using Shell Scripts
 * Implement Infrastructure as Code using Terraform
@@ -434,6 +434,6 @@ AWS-EBS-Snapshot-Disaster-Recovery/
 * AMI-Based Full Instance Recovery
 
 ---
-## Author
+## 👧Author
 Someswari.C
 
